@@ -1,0 +1,67 @@
+.link-first{
+	color: maroon;
+}
+.link-second{
+	color: hotpink;
+}
+.main-title h1{
+	color: orangered;
+}
+.text span{
+	color: saddlebrown;
+}
+.subtitle h2{
+	color: mediumseagreen;
+}
+.main-text p{
+	color: silver;
+}
+.type-title h2{
+	color: maroon;
+}
+.item span{
+	color: mediumseagreen;
+	
+}
+.type-list .item a {
+	color: crimson;
+}
+.block1-title h2{
+	color: goldenrod;
+}
+.block1-text{
+	color: indigo;
+}
+.block1-text > p { 
+color: lawngreen;
+}
+.block2-title h2{
+	color: khaki;
+}
+.block2-text{
+	color: forestgreen;
+}
+.block2-text span{
+	color: red;
+}
+
+.block3-title h2{
+	color: brown;
+}
+.block3-text{
+	color: hotpink;
+}
+.block3-text span{
+	color: brown;
+}
+
+
+
+
+
+
+
+
+
+
+
